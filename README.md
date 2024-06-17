@@ -13,7 +13,8 @@ An GTK Notes App.
 
 
 
-sudo apt install libgtk-dev
-make
 
 
+
+    sudo apt install libgtk-dev
+    make
