@@ -14,7 +14,7 @@ An GTK Notes App.
 
 
 - Setup
-    sudo apt install libgtk-dev
+        sudo apt install libgtk-dev
 
 
-  make
+        make
