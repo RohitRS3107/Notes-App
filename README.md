@@ -1,8 +1,8 @@
 # Notes-App
 Notes App For Editing Text.
-#Overview
+# Overview
 An GTK Notes App.
-#Installation
+# Installation
 
     git clone https://github.com/RohitRS3107/Notes-App
     cd Notes-App
